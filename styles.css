@@ -47,14 +47,8 @@ table {
 	border-spacing: 0;
 }
 
-/* Add Project 2 CSS code to */
+/* Add Project 2 CSS code to --------------------------------------------------------------------------------------------*/
 
-
-/* body {
-    background-image: url("images/back.JPG");
-    background-repeat: repeat-x;
-}
-*/
 
 #mmenu ul
 {
@@ -165,7 +159,7 @@ table {
     width: 100px;
 }
 
-/* Test School Images */
+/* School Images -------------------------------------------------------------------------------------------- */
 
 div.gallery {
     margin: 5px;
@@ -202,14 +196,15 @@ div.desc {
 }
 
 
-/* Resume CSS */
+/* Resume CSS --------------------------------------------------------------------------------------------*/
 
 #ex1 {
     border: 2px solid;
     padding: 10px;
     background: #dddddd;
     border-top-left-radius: 2em;
-        margin-bottom: 10px;
+    margin-bottom: 10px;
+    background-color: MediumSeaGreen;
 }
 
 #ex2 {
@@ -217,4 +212,48 @@ div.desc {
     padding: 10px;
     background: #dddddd;
     border-top-left-radius: 2em;
+    margin-bottom: 10px;    
+}
+
+#ex3 {
+    border: 2px solid;
+    padding: 10px;
+    background: #dddddd;
+    border-top-left-radius: 2em;
+    margin-bottom: 10px;    
+}
+#ex4 {
+    border: 2px solid;
+    padding: 10px;
+    background: #dddddd;
+    border-top-left-radius: 2em;
+    margin-bottom: 10px;    
+}
+#ex5 {
+    border: 2px solid;
+    padding: 10px;
+    background: #dddddd;
+    border-top-left-radius: 2em;
+    margin-bottom: 10px;    
+}
+#ex6 {
+    border: 2px solid;
+    padding: 10px;
+    background: #dddddd;
+    border-top-left-radius: 2em;
+    margin-bottom: 10px;    
+}
+#ex7 {
+    border: 2px solid;
+    padding: 10px;
+    background: #dddddd;
+    border-top-left-radius: 2em;
+    margin-bottom: 10px;    
+}
+#ex8 {
+    border: 2px solid;
+    padding: 10px;
+    background: #dddddd;
+    border-top-left-radius: 2em;
+    margin-bottom: 10px;    
 }
