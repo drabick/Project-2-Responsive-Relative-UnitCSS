@@ -99,7 +99,7 @@ table {
 #about
 {
     overflow: auto;
-    width: 90%;
+    width: 98%;
     margin-top: 25px;
     margin-bottom: 5px;
     margin-right: 150px;
@@ -129,7 +129,7 @@ table {
 #personal
 {
     overflow: auto;
-    width: 90%;
+    width: 98%;
     margin-top: 5px;
     margin-bottom: 10px;
     margin-right: 150px;
@@ -186,7 +186,7 @@ div.desc {
 #contact
 {
     overflow: auto;
-    width: 90%;
+    width: 98%;
     margin-top: 25px;
     margin-bottom: 5px;
     margin-right: 150px;
@@ -399,4 +399,32 @@ div.desc {
     color: white;
 }
 
-    
+#mil h1
+{
+      text-align: center;
+      font: bold 25px/30px arial, serif;
+      margin-bottom: 10px; 
+}
+
+#mil p
+{
+      text-align: center;
+      font:  15px/30px arial, serif;
+      margin-bottom: 10px; 
+}    
+
+
+
+#hob h1
+{
+      text-align: center;
+      font: bold 25px/30px arial, serif;
+      margin-bottom: 10px; 
+}
+
+#hob h2
+{
+      text-align: left;
+      font: bold 20px/30px arial, serif;
+      margin-bottom: 10px; 
+}
