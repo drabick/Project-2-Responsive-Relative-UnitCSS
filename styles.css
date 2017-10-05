@@ -296,7 +296,7 @@ div.desc {
       font: bold 25px/30px arial, serif;
 }  
 
-#high {
+#hight {
 
     border-collapse: collapse;
     width: 100%;
@@ -304,14 +304,14 @@ div.desc {
 
 }
 
-#high th, td {
+#hight th, td {
     text-align: left;
     padding: 8px;
 }
 
-#high tr:nth-child(even){background-color: #f2f2f2}
+#hight tr:nth-child(even){background-color: #f2f2f2}
 
-#high th {
+#hight th {
     background-color: #669999;
     color: white;
 }
@@ -322,21 +322,21 @@ div.desc {
       font: bold 25px/30px arial, serif;
 }  
 
-#skill {
+#skillt {
     border-collapse: collapse;
     width: 100%;
     margin-bottom: 20px; 
 
 }
 
-#skill th, td {
+#skillt th, td {
     text-align: left;
     padding: 8px;
 }
 
-#skill tr:nth-child(even){background-color: #f2f2f2}
+#skillt tr:nth-child(even){background-color: #f2f2f2}
 
-#skill th {
+#skillt th {
     background-color: #669999;
     color: white;
 }
