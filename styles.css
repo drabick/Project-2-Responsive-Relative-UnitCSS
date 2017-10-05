@@ -54,7 +54,7 @@ table {
 {
  margin: 0;
  padding: 0 1em;
- background: #000;
+ background: #009973;
  height: 3em;
  list-style: none;
 }
@@ -71,7 +71,7 @@ table {
 {
  float: left;
  height: 100%;
- color: #c60;
+ color: #000;
  text-decoration: none;
  line-height: 3;
  font-weight: bold;
@@ -80,7 +80,7 @@ table {
 
 #mmenu a:hover
 {
- color: orange;
+ color: #999900;
  text-decoration: underline;
 }
 
@@ -201,16 +201,20 @@ div.desc {
 #ex1 {
     border: 2px solid;
     padding: 10px;
-    background: #dddddd;
+    background: #ebebe0;
     border-top-left-radius: 2em;
     margin-bottom: 10px;
-    background-color: MediumSeaGreen;
 }
+
+#ex1 h3
+{
+      font: bold 15px/30px arial, serif;
+}  
 
 #ex2 {
     border: 2px solid;
     padding: 10px;
-    background: #dddddd;
+    background: #ebebe0;
     border-top-left-radius: 2em;
     margin-bottom: 10px;    
 }
@@ -218,42 +222,89 @@ div.desc {
 #ex3 {
     border: 2px solid;
     padding: 10px;
-    background: #dddddd;
+    background: #ebebe0;
     border-top-left-radius: 2em;
     margin-bottom: 10px;    
 }
 #ex4 {
     border: 2px solid;
     padding: 10px;
-    background: #dddddd;
+    background: #ebebe0;
     border-top-left-radius: 2em;
     margin-bottom: 10px;    
 }
 #ex5 {
     border: 2px solid;
     padding: 10px;
-    background: #dddddd;
+    background: #ebebe0;
     border-top-left-radius: 2em;
     margin-bottom: 10px;    
 }
 #ex6 {
     border: 2px solid;
     padding: 10px;
-    background: #dddddd;
+    background: #ebebe0;
     border-top-left-radius: 2em;
     margin-bottom: 10px;    
 }
 #ex7 {
     border: 2px solid;
     padding: 10px;
-    background: #dddddd;
+    background: #ebebe0;
     border-top-left-radius: 2em;
     margin-bottom: 10px;    
 }
 #ex8 {
     border: 2px solid;
     padding: 10px;
-    background: #dddddd;
+    background: #ebebe0;
     border-top-left-radius: 2em;
     margin-bottom: 10px;    
 }
+
+/* Table - CSS --------------------------------------------------------------------------------------------*/
+
+#high {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 10px; 
+
+}
+
+#high th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+#high tr:nth-child(even){background-color: #f2f2f2}
+
+#high th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#skill {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 10px; 
+
+}
+
+#skill th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+#skill tr:nth-child(even){background-color: #f2f2f2}
+
+#skill th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Executive Summary CSS --------------------------------------------------------------------------------------------*/
+
+#sum h1
+{
+      font: bold 15px/30px arial, serif;
+}  
