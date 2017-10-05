@@ -54,7 +54,7 @@ table {
 {
  margin: 0;
  padding: 0 1em;
- background: #009973;
+ background: #669999;
  height: 3em;
  list-style: none;
 }
@@ -201,7 +201,7 @@ div.desc {
 #ex1 {
     border: 2px solid;
     padding: 10px;
-    background: #ebebe0;
+    background: #d1e0e0;
     border-top-left-radius: 2em;
     margin-bottom: 10px;
 }
@@ -214,60 +214,93 @@ div.desc {
 #ex2 {
     border: 2px solid;
     padding: 10px;
-    background: #ebebe0;
+    background: #d1e0e0;
     border-top-left-radius: 2em;
     margin-bottom: 10px;    
 }
-
+#ex2 h3
+{
+      font: bold 15px/30px arial, serif;
+} 
 #ex3 {
     border: 2px solid;
     padding: 10px;
-    background: #ebebe0;
+    background: #d1e0e0;
     border-top-left-radius: 2em;
     margin-bottom: 10px;    
 }
+#ex3 h3
+{
+      font: bold 15px/30px arial, serif;
+} 
 #ex4 {
     border: 2px solid;
     padding: 10px;
-    background: #ebebe0;
+    background: #d1e0e0;
     border-top-left-radius: 2em;
     margin-bottom: 10px;    
 }
+#ex4 h3
+{
+      font: bold 15px/30px arial, serif;
+} 
 #ex5 {
     border: 2px solid;
     padding: 10px;
-    background: #ebebe0;
+    background: #d1e0e0;
     border-top-left-radius: 2em;
     margin-bottom: 10px;    
 }
+#ex5 h3
+{
+      font: bold 15px/30px arial, serif;
+} 
 #ex6 {
     border: 2px solid;
     padding: 10px;
-    background: #ebebe0;
+    background: #d1e0e0;
     border-top-left-radius: 2em;
     margin-bottom: 10px;    
 }
+#ex6 h3
+{
+      font: bold 15px/30px arial, serif;
+} 
 #ex7 {
     border: 2px solid;
     padding: 10px;
-    background: #ebebe0;
+    background: #d1e0e0;
     border-top-left-radius: 2em;
     margin-bottom: 10px;    
 }
+#ex7 h3
+{
+      font: bold 15px/30px arial, serif;
+} 
 #ex8 {
     border: 2px solid;
     padding: 10px;
-    background: #ebebe0;
+    background: #d1e0e0;
     border-top-left-radius: 2em;
     margin-bottom: 10px;    
 }
-
+#ex8 h3
+{
+      font: bold 15px/30px arial, serif;
+} 
 /* Table - CSS --------------------------------------------------------------------------------------------*/
 
+
+#high h2{
+      text-align: center;
+      font: bold 25px/30px arial, serif;
+}  
+
 #high {
+
     border-collapse: collapse;
     width: 100%;
-    margin-bottom: 10px; 
+    margin-bottom: 20px; 
 
 }
 
@@ -279,14 +312,20 @@ div.desc {
 #high tr:nth-child(even){background-color: #f2f2f2}
 
 #high th {
-    background-color: #4CAF50;
+    background-color: #669999;
     color: white;
 }
+
+
+#skill h2{
+      text-align: center;
+      font: bold 25px/30px arial, serif;
+}  
 
 #skill {
     border-collapse: collapse;
     width: 100%;
-    margin-bottom: 10px; 
+    margin-bottom: 20px; 
 
 }
 
@@ -298,7 +337,7 @@ div.desc {
 #skill tr:nth-child(even){background-color: #f2f2f2}
 
 #skill th {
-    background-color: #4CAF50;
+    background-color: #669999;
     color: white;
 }
 
@@ -306,5 +345,58 @@ div.desc {
 
 #sum h1
 {
-      font: bold 15px/30px arial, serif;
+      text-align: center;
+      font: bold 25px/30px arial, serif;
+      margin-bottom: 10px; 
+}
+
+#sum p
+{
+      text-align: center;
+      font:  15px/30px arial, serif;
+      margin-bottom: 10px; 
+}
+
+#pro
+{
+      text-align: center;
+      font:  bold 25px/30px arial, serif;
+      margin-bottom: 10px; 
+} 
+
+#edu
+{
+      text-align: center;
+      font:  bold 25px/30px arial, serif;
+      margin-bottom: 10px; 
+} 
+
+/* education */
+
+#edu h2{
+      text-align: center;
+      font: bold 25px/30px arial, serif;
 }  
+
+#edu2 {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px; 
+
+}
+
+#edu2 th, td {
+    text-align: center;
+    padding: 8px;
+}
+
+
+
+#edu2 tr:nth-child(even){background-color: #f2f2f2}
+
+#edu2 th {
+    background-color: #669999;
+    color: white;
+}
+
+    
