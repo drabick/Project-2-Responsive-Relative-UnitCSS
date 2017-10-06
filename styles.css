@@ -301,7 +301,6 @@ div.desc {
       margin-bottom: 10px; 
 } 
 
-
 /*----------------------------------------------------------------------------------------------------------------------*/
 
 /* education */
@@ -357,30 +356,19 @@ div.desc {
       margin-bottom: 10px; 
 }
 
-#hob h2
-{
-      text-align: left;
-      font: bold 20px/30px arial, serif;
-      margin-bottom: 10px; 
-}
-
 /*----------------------------------------------------------------------------------------------------------------------*/
 
-/*  Cols test */
-
-/*
-.vid {
-width:20%
-height:20% 
-}  
-*/
 
 .column {
     float: left;
     width: 30%;
     padding: 15px;
+    text-align: center;
 }
-
+.column h2{
+  text-align: center;
+  font: bold 20px/30px arial, serif;
+}
 
 .row:after {
     content: "";
