@@ -191,7 +191,8 @@ div.desc {
 
 /* Resume CSS --------------------------------------------------------------------------------------------*/
 
-#ex1 {
+
+.exp {
     border: 2px solid;
     padding: 10px;
     background: #d1e0e0;
@@ -199,88 +200,20 @@ div.desc {
     margin-bottom: 10px;
 }
 
-#ex1 h3
+.exp h3
 {
       font: bold 15px/30px arial, serif;
+}
+.exp h4
+{
+      font: bold 13px/30px arial, serif;
 }  
+.exp h5
+{
+      font: bold 13px/30px arial, serif;
+}   
 
-#ex2 {
-    border: 2px solid;
-    padding: 10px;
-    background: #d1e0e0;
-    border-top-left-radius: 2em;
-    margin-bottom: 10px;    
-}
-#ex2 h3
-{
-      font: bold 15px/30px arial, serif;
-} 
-#ex3 {
-    border: 2px solid;
-    padding: 10px;
-    background: #d1e0e0;
-    border-top-left-radius: 2em;
-    margin-bottom: 10px;    
-}
-#ex3 h3
-{
-      font: bold 15px/30px arial, serif;
-} 
-#ex4 {
-    border: 2px solid;
-    padding: 10px;
-    background: #d1e0e0;
-    border-top-left-radius: 2em;
-    margin-bottom: 10px;    
-}
-#ex4 h3
-{
-      font: bold 15px/30px arial, serif;
-} 
-#ex5 {
-    border: 2px solid;
-    padding: 10px;
-    background: #d1e0e0;
-    border-top-left-radius: 2em;
-    margin-bottom: 10px;    
-}
-#ex5 h3
-{
-      font: bold 15px/30px arial, serif;
-} 
-#ex6 {
-    border: 2px solid;
-    padding: 10px;
-    background: #d1e0e0;
-    border-top-left-radius: 2em;
-    margin-bottom: 10px;    
-}
-#ex6 h3
-{
-      font: bold 15px/30px arial, serif;
-} 
-#ex7 {
-    border: 2px solid;
-    padding: 10px;
-    background: #d1e0e0;
-    border-top-left-radius: 2em;
-    margin-bottom: 10px;    
-}
-#ex7 h3
-{
-      font: bold 15px/30px arial, serif;
-} 
-#ex8 {
-    border: 2px solid;
-    padding: 10px;
-    background: #d1e0e0;
-    border-top-left-radius: 2em;
-    margin-bottom: 10px;    
-}
-#ex8 h3
-{
-      font: bold 15px/30px arial, serif;
-} 
+
 /* Table - CSS --------------------------------------------------------------------------------------------*/
 
 
