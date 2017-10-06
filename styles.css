@@ -1,3 +1,6 @@
+/*  CSS Reset
+
+
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -49,7 +52,6 @@ table {
 
 /* Add Project 2 CSS code --------------------------------------------------------------------------------------------*/
 
-
 /* Main navigation bar -----------------------------------------------------------------------------------------------*/
 #mmenu {
     overflow: hidden;
@@ -81,9 +83,7 @@ table {
     float: left;
 } 
 
-
 /*----------------------------------------------------------------------------------------------------------------------*/
-
 
 #about
 {
@@ -115,9 +115,7 @@ table {
       font:  12px/30px arial, serif;
 }
 
-
 /*----------------------------------------------------------------------------------------------------------------------*/
-
 
 #personal
 {
@@ -154,7 +152,7 @@ table {
 
 /* School Images -------------------------------------------------------------------------------------------- */
 
-div.gallery {
+section.gallery {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
@@ -162,16 +160,16 @@ div.gallery {
     margin-left: 100px;
 }
 
-div.gallery:hover {
+section.gallery:hover {
     border: 1px solid #777;
 }
 
-div.gallery img {
+section.gallery img {
     width: 300px;
     height: 200px;
 }
 
-div.desc {
+section.desc {
     padding: 15px;
     text-align: center;
 }
@@ -188,9 +186,7 @@ div.desc {
     border: 1px solid black;
 }
 
-
 /* Resume CSS --------------------------------------------------------------------------------------------*/
-
 
 .exp {
     border: 2px solid;
@@ -213,9 +209,7 @@ div.desc {
       font: bold 13px/30px arial, serif;
 }   
 
-
 /* Table - CSS --------------------------------------------------------------------------------------------*/
-
 
 #high h2{
       text-align: center;
@@ -242,9 +236,7 @@ div.desc {
     color: white;
 }
 
-
 /*----------------------------------------------------------------------------------------------------------------------*/
-
 
 #skill h2{
       text-align: center;
@@ -331,7 +323,6 @@ div.desc {
 
 /*----------------------------------------------------------------------------------------------------------------------*/
 
-
 #mil h1
 {
       text-align: center;
@@ -358,12 +349,12 @@ div.desc {
 
 /*----------------------------------------------------------------------------------------------------------------------*/
 
-
 .column {
     float: left;
     width: 30%;
     padding: 15px;
     text-align: center;
+    /*background-color: #e0ebeb; */
 }
 .column h2{
   text-align: center;
@@ -375,7 +366,6 @@ div.desc {
     display: table;
     clear: both;
 }
-
 
 @media (max-width:600px) {
     .column {
