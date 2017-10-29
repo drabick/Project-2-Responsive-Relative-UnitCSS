@@ -53,13 +53,21 @@ table {
 /* Add Project 2 CSS code --------------------------------------------------------------------------------------------*/
 
 /* Main navigation bar -----------------------------------------------------------------------------------------------*/
+
+#hd1{
+  margin-left: 10px;
+  margin-right: 10px;
+  position: center;
+}
+
 #mmenu {
     overflow: hidden;
     background-color: #669999;
-    position: fixed;
+    position: center;
     top: 0;
     width: 100%;
     margin-bottom: 10px;
+
 }
 
 /* Links inside the navbar */
@@ -193,6 +201,8 @@ section.desc {
     padding: 10px;
     background: #d1e0e0;
     border-top-left-radius: 2em;
+    margin-left: 10px;
+    margin-right: 10px;
     margin-bottom: 10px;
 }
 
@@ -210,6 +220,13 @@ section.desc {
 }   
 
 /* Table - CSS --------------------------------------------------------------------------------------------*/
+
+
+#high{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 
 #high h2{
       text-align: center;
@@ -238,6 +255,10 @@ section.desc {
 
 /*----------------------------------------------------------------------------------------------------------------------*/
 
+#skill{
+  margin-left: 10px;
+  margin-right: 10px;
+}
 #skill h2{
       text-align: center;
       font: bold 25px/30px arial, serif;
@@ -269,6 +290,8 @@ section.desc {
       margin-top: 50px;
       text-align: center;
       font: bold 25px/30px arial, serif;
+      margin-left: 10px;
+      margin-right: 10px;
       margin-bottom: 10px; 
 }
 
@@ -286,10 +309,17 @@ section.desc {
       margin-bottom: 10px; 
 } 
 
+
+#edu1{
+      margin-left: 10px;
+      margin-right: 10px;
+}
+
 #edu
 {
       text-align: center;
       font:  bold 25px/30px arial, serif;
+
       margin-bottom: 10px; 
 } 
 
